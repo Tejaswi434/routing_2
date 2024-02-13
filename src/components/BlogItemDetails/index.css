@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.avatarsize {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.size {
+  height: 300px;
+  width: 600px;
+  margin-left: 300px;
+  border-radius: 20px;
+}
+.rowing {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
+h1 {
+  text-align: center;
+}
